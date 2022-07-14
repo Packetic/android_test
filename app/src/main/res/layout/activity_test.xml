@@ -282,7 +282,7 @@
 
             </androidx.recyclerview.widget.RecyclerView>
 
-            <com.google.android.material.button.MaterialButton
+            <Button
                 android:id="@+id/button_install"
                 android:layout_width="354dp"
                 android:layout_height="64dp"
